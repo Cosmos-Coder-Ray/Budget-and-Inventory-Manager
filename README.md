@@ -33,6 +33,7 @@ pip install mysql-connector-python
 
 ### 5. Run the Program
 ```bash
+python gui.py
 python main.py
 ```
 
